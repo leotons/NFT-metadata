@@ -1,0 +1,24 @@
+{
+    "name": "8",
+    "image": "8.png",
+    "description": "",
+    "id": "lgeyz0ib",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "woods.png"
+        },
+        {
+            "type": "植物",
+            "value": "sprout.png"
+        },
+        {
+            "type": "盆栽",
+            "value": "cauldron.png"
+        },
+        {
+            "type": "脸部",
+            "value": "smiling.png"
+        }
+    ]
+}

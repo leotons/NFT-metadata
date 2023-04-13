@@ -1,0 +1,24 @@
+{
+    "name": "29",
+    "image": "29.png",
+    "description": "",
+    "id": "lgeyz0ix",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "midnight.png"
+        },
+        {
+            "type": "植物",
+            "value": "flower.png"
+        },
+        {
+            "type": "盆栽",
+            "value": "clay-pot.png"
+        },
+        {
+            "type": "脸部",
+            "value": "calm.png"
+        }
+    ]
+}

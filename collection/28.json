@@ -1,0 +1,24 @@
+{
+    "name": "28",
+    "image": "28.png",
+    "description": "",
+    "id": "lgeyz0iw",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "sands.png"
+        },
+        {
+            "type": "植物",
+            "value": "snake-plant.png"
+        },
+        {
+            "type": "盆栽",
+            "value": "ceramic-pot.png"
+        },
+        {
+            "type": "脸部",
+            "value": "serious.png"
+        }
+    ]
+}

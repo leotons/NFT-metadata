@@ -1,0 +1,24 @@
+{
+    "name": "2",
+    "image": "2.png",
+    "description": "",
+    "id": "lgeyz0i4",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "sands.png"
+        },
+        {
+            "type": "植物",
+            "value": "sprout.png"
+        },
+        {
+            "type": "盆栽",
+            "value": "foam-planter.png"
+        },
+        {
+            "type": "脸部",
+            "value": "in-love.png"
+        }
+    ]
+}

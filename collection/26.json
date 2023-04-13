@@ -1,0 +1,24 @@
+{
+    "name": "26",
+    "image": "26.png",
+    "description": "",
+    "id": "lgeyz0iu",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "sands.png"
+        },
+        {
+            "type": "植物",
+            "value": "cactus.png"
+        },
+        {
+            "type": "盆栽",
+            "value": "clay-pot.png"
+        },
+        {
+            "type": "脸部",
+            "value": "happy.png"
+        }
+    ]
+}

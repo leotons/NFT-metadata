@@ -1,0 +1,24 @@
+{
+    "name": "6",
+    "image": "6.png",
+    "description": "",
+    "id": "lgeyz0i8",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "noon.png"
+        },
+        {
+            "type": "植物",
+            "value": "cactus.png"
+        },
+        {
+            "type": "盆栽",
+            "value": "foam-planter.png"
+        },
+        {
+            "type": "脸部",
+            "value": "calm.png"
+        }
+    ]
+}

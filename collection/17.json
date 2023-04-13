@@ -1,0 +1,24 @@
+{
+    "name": "17",
+    "image": "17.png",
+    "description": "",
+    "id": "lgeyz0ik",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "woods.png"
+        },
+        {
+            "type": "植物",
+            "value": "cactus.png"
+        },
+        {
+            "type": "盆栽",
+            "value": "cauldron.png"
+        },
+        {
+            "type": "脸部",
+            "value": "cute.png"
+        }
+    ]
+}

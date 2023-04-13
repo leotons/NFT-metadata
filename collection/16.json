@@ -1,0 +1,24 @@
+{
+    "name": "16",
+    "image": "16.png",
+    "description": "",
+    "id": "lgeyz0ij",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "midnight.png"
+        },
+        {
+            "type": "植物",
+            "value": "flower.png"
+        },
+        {
+            "type": "盆栽",
+            "value": "foam-planter.png"
+        },
+        {
+            "type": "脸部",
+            "value": "curious.png"
+        }
+    ]
+}

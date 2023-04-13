@@ -1,0 +1,24 @@
+{
+    "name": "14",
+    "image": "14.png",
+    "description": "",
+    "id": "lgeyz0ih",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "woods.png"
+        },
+        {
+            "type": "植物",
+            "value": "eucalyptus.png"
+        },
+        {
+            "type": "盆栽",
+            "value": "cauldron.png"
+        },
+        {
+            "type": "脸部",
+            "value": "crying.png"
+        }
+    ]
+}

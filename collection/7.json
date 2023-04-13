@@ -1,0 +1,24 @@
+{
+    "name": "7",
+    "image": "7.png",
+    "description": "",
+    "id": "lgeyz0ia",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "midnight.png"
+        },
+        {
+            "type": "植物",
+            "value": "flower.png"
+        },
+        {
+            "type": "盆栽",
+            "value": "cauldron.png"
+        },
+        {
+            "type": "脸部",
+            "value": "serious.png"
+        }
+    ]
+}

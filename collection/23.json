@@ -1,0 +1,24 @@
+{
+    "name": "23",
+    "image": "23.png",
+    "description": "",
+    "id": "lgeyz0ir",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "sands.png"
+        },
+        {
+            "type": "植物",
+            "value": "snake-plant.png"
+        },
+        {
+            "type": "盆栽",
+            "value": "cauldron.png"
+        },
+        {
+            "type": "脸部",
+            "value": "curious.png"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "15",
+    "image": "15.png",
+    "description": "",
+    "id": "lgeyz0ii",
+    "attributes": [
+        {
+            "type": "背景",
+            "value": "sands.png"
+        },
+        {
+            "type": "植物",
+            "value": "flower.png"
+        },
+        {
+            "type": "盆栽",
+            "value": "foam-planter.png"
+        },
+        {
+            "type": "脸部",
+            "value": "happy.png"
+        }
+    ]
+}
