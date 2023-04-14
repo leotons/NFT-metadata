@@ -1,0 +1,39 @@
+{
+  "name": "test #5",
+  "description": "test description",
+  "image": "https://github.com/leotons/NFT-metadata/blob/main/5.png",
+  "dna": "fb3e56e7b876049a499544c86accb1026a2d4324",
+  "edition": 5,
+  "date": 1681459183864,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
