@@ -1,24 +1,26 @@
 {
-    "name": "9",
-    "image": "9.png",
-    "description": "",
-    "id": "lgeyz0ic",
-    "attributes": [
-        {
-            "type": "背景",
-            "value": "midnight.png"
-        },
-        {
-            "type": "植物",
-            "value": "snake-plant.png"
-        },
-        {
-            "type": "盆栽",
-            "value": "cement-pot.png"
-        },
-        {
-            "type": "脸部",
-            "value": "cute.png"
-        }
-    ]
+  "name": "Mystic Lion",
+  "description": "A legendary lion with mystical powers.",
+  "image": "https://ipfs.io/ipfs/QmTWMVGFkMv6UyM6jKg6vdZ7JDCXz6FeZm1yRJnKj7VTRB",
+  "animation_url": "https://ipfs.io/ipfs/QmWJU3LrKfFFMy5ycL4t8Wq3qKv5ATDnm5Eug1R8WJ5L5S",
+  "external_url": "https://mystic-lions.example.com/lion/1",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Strength",
+      "value": 100
+    },
+    {
+      "trait_type": "Speed",
+      "value": 50
+    }
+  ],
+  "properties": {
+    "file_type": "PNG",
+    "file_size": "3500kb"
+  },
+  "background_color": "FFD700"
 }
