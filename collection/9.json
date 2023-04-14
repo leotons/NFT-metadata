@@ -1,9 +1,7 @@
 {
   "name": "Mystic Lion",
   "description": "A legendary lion with mystical powers.",
-  "image": "https://ipfs.io/ipfs/QmTWMVGFkMv6UyM6jKg6vdZ7JDCXz6FeZm1yRJnKj7VTRB",
-  "animation_url": "https://ipfs.io/ipfs/QmWJU3LrKfFFMy5ycL4t8Wq3qKv5ATDnm5Eug1R8WJ5L5S",
-  "external_url": "https://mystic-lions.example.com/lion/1",
+  "image": "https://avatars.githubusercontent.com/u/952183",
   "attributes": [
     {
       "trait_type": "Rarity",
