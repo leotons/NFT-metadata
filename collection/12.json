@@ -1,24 +1,46 @@
 {
-    "name": "12",
-    "image": "12.png",
-    "description": "",
-    "id": "lgeyz0if",
-    "attributes": [
-        {
-            "type": "背景",
-            "value": "noon.png"
-        },
-        {
-            "type": "植物",
-            "value": "cactus.png"
-        },
-        {
-            "type": "盆栽",
-            "value": "foam-planter.png"
-        },
-        {
-            "type": "脸部",
-            "value": "in-love.png"
-        }
-    ]
+  "image": "https://cloudflare-ipfs.com/ipfs/QmYN3R1YY5cSVW6mNHXz86n6HAvjJoNeVGXmwrQcYqgMUU",
+  "external_url": "https://unisocks.exchange",
+  "description": "Dynamically priced socks.",
+  "name": "Digital Unisocks Edition 0",
+  "attributes": [
+    {
+      "trait_type": "Fuzziness",
+      "value": "Extreme"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Deep Pink on Crème"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton blend"
+    },
+    {
+      "trait_type": "Made In",
+      "value": "USA"
+    },
+    {
+      "trait_type": "Length",
+      "value": "Mid-calf"
+    },
+    {
+      "trait_type": "Size",
+      "value": "One size fits most"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "1 / 500"
+    },
+    {
+      "trait_type": "USD Value",
+      "value": "ethPrice * 17500 / (500 - socksSold)**2"
+    },
+    {
+      "trait_type": "Version",
+      "value": 0,
+      "display_type": "number"
+    }
+  ],
+  "background_color": "ffffff"
 }
